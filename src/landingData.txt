@@ -1,0 +1,77 @@
+this file represents the data of the landing of Bereshit space craft on rhe moon.
+the best result in term of fuel left in the space craft is in the log below, we managed to land Bereshit with 24.918 liters of fuel
+
+this is the log of the landing
+                ||
+                ||
+               \\//
+                \/
+
+Time: 10  Height: 13224.514  VS: 25.183  fuel:119.446  Weight: 284.446  Acceleration: 1.55  Rotation: 59.528  Distance: 9.26 km
+Time: 20  Height: 12974.591  VS: 24.855  fuel:117.892  Weight: 282.892  Acceleration: 1.559  Rotation: 60.776  Distance: 18.386 km
+Time: 30  Height: 12727.613  VS: 24.583  fuel:116.338  Weight: 281.338  Acceleration: 1.568  Rotation: 59.294  Distance: 27.377 km
+Time: 40  Height: 12482.287  VS: 24.486  fuel:114.784  Weight: 279.784  Acceleration: 1.576  Rotation: 59.584  Distance: 36.233 km
+Time: 50  Height: 12237.823  VS: 24.435  fuel:113.23  Weight: 278.23  Acceleration: 1.585  Rotation: 60.9  Distance: 44.952 km
+Time: 60  Height: 11993.435  VS: 24.458  fuel:111.676  Weight: 276.676  Acceleration: 1.594  Rotation: 59.493  Distance: 53.535 km
+Time: 70  Height: 11748.404  VS: 24.563  fuel:110.122  Weight: 275.122  Acceleration: 1.603  Rotation: 60.867  Distance: 61.98 km
+Time: 80  Height: 11501.799  VS: 24.758  fuel:108.568  Weight: 273.568  Acceleration: 1.612  Rotation: 59.525  Distance: 70.286 km
+Time: 90  Height: 11252.74  VS: 25.053  fuel:107.014  Weight: 272.014  Acceleration: 1.621  Rotation: 60.973  Distance: 78.453 km
+Time: 100  Height: 11000.111  VS: 25.457  fuel:105.46  Weight: 270.46  Acceleration: 1.631  Rotation: 59.714  Distance: 86.48 km
+Time: 110  Height: 10742.816  VS: 25.983  fuel:103.906  Weight: 268.906  Acceleration: 1.64  Rotation: 61.257  Distance: 94.365 km
+Time: 120  Height: 10479.738  VS: 26.564  fuel:102.352  Weight: 267.352  Acceleration: 1.65  Rotation: 59.108  Distance: 102.109 km
+Time: 130  Height: 10210.127  VS: 27.269  fuel:100.794  Weight: 265.794  Acceleration: 1.681  Rotation: 59.779  Distance: 109.709 km
+Time: 140  Height: 9934.366  VS: 27.803  fuel:99.183  Weight: 264.183  Acceleration: 1.762  Rotation: 60.532  Distance: 117.164 km
+Time: 150  Height: 9654.872  VS: 28.057  fuel:97.506  Weight: 262.506  Acceleration: 1.846  Rotation: 61.386  Distance: 124.466 km
+Time: 160  Height: 9374.477  VS: 27.98  fuel:95.762  Weight: 260.762  Acceleration: 1.93  Rotation: 59.612  Distance: 131.608 km
+Time: 170  Height: 9096.142  VS: 27.682  fuel:93.952  Weight: 258.952  Acceleration: 2.017  Rotation: 59.743  Distance: 138.583 km
+Time: 180  Height: 8822.295  VS: 27.08  fuel:92.075  Weight: 257.075  Acceleration: 2.105  Rotation: 59.327  Distance: 145.383 km
+Time: 190  Height: 8555.772  VS: 26.346  fuel:90.161  Weight: 255.161  Acceleration: 2.128  Rotation: 59.937  Distance: 152.003 km
+Time: 200  Height: 8296.334  VS: 25.673  fuel:88.248  Weight: 253.248  Acceleration: 2.144  Rotation: 60.204  Distance: 158.438 km
+Time: 210  Height: 8043.073  VS: 25.032  fuel:86.334  Weight: 251.334  Acceleration: 2.161  Rotation: 59.122  Distance: 164.688 km
+Time: 220  Height: 7795.627  VS: 24.46  fuel:84.42  Weight: 249.42  Acceleration: 2.177  Rotation: 59.275  Distance: 170.751 km
+Time: 230  Height: 7552.849  VS: 24.092  fuel:82.507  Weight: 247.507  Acceleration: 2.194  Rotation: 60.976  Distance: 176.627 km
+Time: 240  Height: 7310.843  VS: 24.646  fuel:80.593  Weight: 245.593  Acceleration: 2.211  Rotation: 46.161  Distance: 182.312 km
+Time: 250  Height: 7087.902  VS: 20.52  fuel:78.679  Weight: 243.679  Acceleration: 2.229  Rotation: 49.391  Distance: 187.82 km
+Time: 260  Height: 6891.567  VS: 19.42  fuel:76.766  Weight: 241.766  Acceleration: 2.246  Rotation: 58.444  Distance: 193.153 km
+Time: 270  Height: 6697.38  VS: 19.406  fuel:74.852  Weight: 239.852  Acceleration: 2.264  Rotation: 58.657  Distance: 198.293 km
+Time: 280  Height: 6502.801  VS: 19.539  fuel:72.939  Weight: 237.939  Acceleration: 2.282  Rotation: 59.825  Distance: 203.237 km
+Time: 290  Height: 6306.556  VS: 19.693  fuel:71.025  Weight: 236.025  Acceleration: 2.301  Rotation: 58.786  Distance: 207.984 km
+Time: 300  Height: 6107.902  VS: 20.024  fuel:69.111  Weight: 234.111  Acceleration: 2.32  Rotation: 60.849  Distance: 212.532 km
+Time: 310  Height: 5905.325  VS: 20.444  fuel:67.198  Weight: 232.198  Acceleration: 2.339  Rotation: 60.408  Distance: 216.878 km
+Time: 320  Height: 5698.559  VS: 20.934  fuel:65.284  Weight: 230.284  Acceleration: 2.358  Rotation: 60.151  Distance: 221.023 km
+Time: 330  Height: 5486.785  VS: 21.451  fuel:63.37  Weight: 228.37  Acceleration: 2.378  Rotation: 60.036  Distance: 224.963 km
+Time: 340  Height: 5268.576  VS: 22.142  fuel:61.457  Weight: 226.457  Acceleration: 2.398  Rotation: 60.035  Distance: 228.698 km
+Time: 350  Height: 5042.874  VS: 22.944  fuel:59.543  Weight: 224.543  Acceleration: 2.419  Rotation: 60.128  Distance: 232.225 km
+Time: 360  Height: 4809.283  VS: 23.791  fuel:57.629  Weight: 222.629  Acceleration: 2.439  Rotation: 60.301  Distance: 235.543 km
+Time: 370  Height: 4566.518  VS: 24.706  fuel:55.716  Weight: 220.716  Acceleration: 2.46  Rotation: 60.541  Distance: 238.65 km
+Time: 380  Height: 4314.058  VS: 25.714  fuel:53.802  Weight: 218.802  Acceleration: 2.482  Rotation: 60.84  Distance: 241.544 km
+Time: 390  Height: 4050.342  VS: 26.939  fuel:51.889  Weight: 216.889  Acceleration: 2.504  Rotation: 61.191  Distance: 244.223 km
+Time: 400  Height: 3774.544  VS: 28.035  fuel:49.945  Weight: 214.945  Acceleration: 2.606  Rotation: 58.838  Distance: 246.685 km
+Time: 410  Height: 3489.177  VS: 28.846  fuel:47.935  Weight: 212.935  Acceleration: 2.719  Rotation: 59.28  Distance: 248.921 km
+Time: 420  Height: 3197.708  VS: 29.271  fuel:45.858  Weight: 210.858  Acceleration: 2.835  Rotation: 59.761  Distance: 250.921 km
+Time: 430  Height: 2904.653  VS: 29.319  fuel:43.714  Weight: 208.714  Acceleration: 2.955  Rotation: 60.282  Distance: 252.676 km
+Time: 440  Height: 2613.146  VS: 29.011  fuel:41.508  Weight: 206.508  Acceleration: 3.051  Rotation: 60.839  Distance: 254.176 km
+Time: 450  Height: 2325.605  VS: 28.546  fuel:39.288  Weight: 204.288  Acceleration: 3.084  Rotation: 58.683  Distance: 255.412 km
+Time: 460  Height: 2041.215  VS: 28.321  fuel:37.068  Weight: 202.068  Acceleration: 3.118  Rotation: 59.312  Distance: 256.381 km
+Time: 470  Height: 1745.303  VS: 31.411  fuel:35.594  Weight: 200.594  Acceleration: 1.822  Rotation: 48.471  Distance: 257.116 km
+Time: 480  Height: 1419.198  VS: 33.131  fuel:34.307  Weight: 199.307  Acceleration: 1.833  Rotation: 33.398  Distance: 257.715 km
+Time: 490  Height: 1090.953  VS: 32.262  fuel:33.019  Weight: 198.019  Acceleration: 1.845  Rotation: 18.338  Distance: 258.218 km
+Time: 500  Height: 781.996  VS: 29.498  fuel:31.701  Weight: 196.701  Acceleration: 1.922  Rotation: 3.285  Distance: 258.667 km
+Time: 510  Height: 505.973  VS: 26.029  fuel:30.369  Weight: 195.369  Acceleration: 1.935  Rotation: -0.767  Distance: 259.104 km
+Time: 520  Height: 275.902  VS: 20.086  fuel:28.857  Weight: 193.857  Acceleration: 2.242  Rotation: -0.818  Distance: 259.544 km
+Time: 530  Height: 107.059  VS: 14.43  fuel:27.405  Weight: 192.405  Acceleration: 2.128  Rotation: -0.869  Distance: 259.987 km
+Time: 531  Height: 93.178  VS: 13.881  fuel:27.261  Weight: 192.261  Acceleration: 2.13  Rotation: -0.874  Distance: 260.031 km
+Time: 532  Height: 79.847  VS: 13.331  fuel:27.094  Weight: 192.094  Acceleration: 2.46  Rotation: -0.879  Distance: 260.076 km
+Time: 533  Height: 67.395  VS: 12.451  fuel:26.928  Weight: 191.928  Acceleration: 2.462  Rotation: -0.884  Distance: 260.12 km
+Time: 534  Height: 55.826  VS: 11.569  fuel:26.761  Weight: 191.761  Acceleration: 2.464  Rotation: -0.89  Distance: 260.165 km
+Time: 535  Height: 45.141  VS: 10.685  fuel:26.595  Weight: 191.595  Acceleration: 2.466  Rotation: -0.895  Distance: 260.21 km
+Time: 536  Height: 35.342  VS: 9.799  fuel:26.428  Weight: 191.428  Acceleration: 2.468  Rotation: -0.9  Distance: 260.254 km
+Time: 537  Height: 26.432  VS: 8.91  fuel:26.228  Weight: 191.228  Acceleration: 2.965  Rotation: -0.905  Distance: 260.299 km
+Time: 538  Height: 18.907  VS: 7.525  fuel:26.028  Weight: 191.028  Acceleration: 2.968  Rotation: -0.91  Distance: 260.344 km
+Time: 539  Height: 12.771  VS: 6.136  fuel:25.829  Weight: 190.829  Acceleration: 2.971  Rotation: -0.915  Distance: 260.388 km
+Time: 540  Height: 8.026  VS: 4.745  fuel:25.629  Weight: 190.629  Acceleration: 2.974  Rotation: -0.92  Distance: 260.433 km
+Time: 541  Height: 4.676  VS: 3.35  fuel:25.462  Weight: 190.462  Acceleration: 2.481  Rotation: -0.926  Distance: 260.478 km
+Time: 542  Height: 2.228  VS: 2.449  fuel:25.296  Weight: 190.296  Acceleration: 2.483  Rotation: -0.931  Distance: 260.523 km
+Time: 543  Height: 0.682  VS: 1.545  fuel:25.107  Weight: 190.107  Acceleration: 2.817  Rotation: -0.936  Distance: 260.568 km
+Time: 544  Height: 0.375  VS: 0.308  fuel:24.918  Weight: 189.918  Acceleration: 2.82  Rotation: -0.941  Distance: 260.613 km
+Landed successfully
